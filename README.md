@@ -28,6 +28,17 @@ worlds/
 docs/
 - JavaDoc documentation
 
+## Run
+
+
+## Features
+
+- Object-oriented Java design
+- Grid-based simulation
+- File-based world configuration
+- Random predator movement
+
+
 assets/
 - game images
 
