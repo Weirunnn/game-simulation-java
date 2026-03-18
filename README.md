@@ -1,46 +1,28 @@
-# Fly Away Home (Java Game)
+# Game / Simulation Project in Java
 
-Fly Away Home is a grid-based Java game where the player controls a fly trying to reach its home while avoiding frogs and spiders.
+## Overview
+This project is a Java-based simulation demonstrating game logic and object-oriented programming.
 
-## Gameplay
-
-- Control the fly using arrow keys
-- Avoid frogs that move randomly
-- Reach the home square to win
-- If a frog reaches the fly, the game is over
-
-## Project Structure
-
-src/
-- Fly.java
-- Frog.java
-- Spider.java
-- FlyWorld.java
-- FlyWorldGUI.java
-- GridLocation.java
-
-worlds/
-- world0.txt
-- world1.txt
-- frogMovesEAST.txt
-- frogMovesWEST.txt
-
-docs/
-- JavaDoc documentation
-
-## Run
-
+## Purpose
+The project showcases how programming concepts such as object-oriented design and logical flow can be applied to simulate a game-like environment.
 
 ## Features
+- Game or simulation logic implementation
+- Object-oriented structure
+- State management
+- Interactive or rule-based behavior
 
-- Object-oriented Java design
-- Grid-based simulation
-- File-based world configuration
-- Random predator movement
+## Tech Stack
+- Java
+- Object-Oriented Programming
 
+## What I Learned
+- Designing program logic
+- Structuring code using OOP
+- Managing program states and interactions
+- Building simple simulation systems
 
-assets/
-- game images
-
-## Compile
-
+## Future Improvements
+- Add graphical interface (GUI)
+- Improve user interaction
+- Expand game features
